@@ -7,8 +7,9 @@ https://www.kaggle.com/datasets/3eb5e4d9b2d603944dfc1a85fd37c6ba61b2c08ee543bd37
 LIVECell è un dataset di immagini microscopiche contenente diverse linee cellulari annotate. In questo progetto è stato utilizzato per un task di classificazione few-shot.
 Il dataset non è incluso nel repository e deve essere scaricato separatamente tramite Kaggle.
 
-1. Dataset Analysis and Exploration
+Flusso di lavoro:
 
+1. Dataset Analysis and Exploration
 È stata condotta un’analisi esplorativa del dataset LIVECell per comprendere:
 distribuzione delle classi
 eventuali squilibri
@@ -35,5 +36,6 @@ La configurazione migliore viene identificata sulla base delle metriche aggregat
 6. Final Retraining
 Dopo la selezione della configurazione ottimale, il classificatore viene riaddestrato per consolidare i risultati finali.
 
-Objective
+Obiettivo:
+
 Valutare la robustezza delle rappresentazioni self-supervised di DINOv3 in regime low-data e analizzare la separabilità delle classi nello spazio latente in un contesto biomedicale.
