@@ -5,7 +5,7 @@ L’obiettivo è valutare la qualità e la trasferibilità delle rappresentazion
 Le immagini utilizzate provengono dal dataset LIVECell, disponibile pubblicamente su Kaggle:
 https://www.kaggle.com/datasets/3eb5e4d9b2d603944dfc1a85fd37c6ba61b2c08ee543bd37342544370a88c71d
 LIVECell è un dataset di immagini microscopiche contenente diverse linee cellulari annotate. In questo progetto è stato utilizzato per un task di classificazione few-shot.
-Il dataset non è incluso nel repository e deve essere scaricato separatamente tramite Kaggle.
+Il dataset non è incluso nel repository e deve essere scaricato separatamente tramite Kaggle. 
 
 Flusso di lavoro:
 
